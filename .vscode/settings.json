@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.https": {
+      "enable": true,
+      "cert": "/Users/yusuf/Documents/My Data/Web/Al Wafa Tarim TV/Project/live.alwafatarim.tv/.vscode/https/localhost.pem",
+      "key": "/Users/yusuf/Documents/My Data/Web/Al Wafa Tarim TV/Project/live.alwafatarim.tv/.vscode/https/localhost.key",
+      "passphrase": "masyhur"
+    }
+}
