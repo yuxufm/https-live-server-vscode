@@ -1,4 +1,4 @@
-# htttps-live-server-vscode
+# https-live-server-vscode
 Activating HTTPS using live server extension in Visual Studio Code
 
 1. create .vscode in your root projects
